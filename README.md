@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html> 
- <meta charset="UTF-8">
- <meta charset="viewport" content="width=device-width, initial scale=1.0" 
   <head>
     <title> MR ORANGE JUICE</title>
   </head>
