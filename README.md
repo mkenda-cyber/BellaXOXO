@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-  <head>
-    <title> MR ORANGE JUICE</title>
   </head>
   <body>
     <h1><em>Hey Mrs. Orange Juice🍊💖</em></h1>
