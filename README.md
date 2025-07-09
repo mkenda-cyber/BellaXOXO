@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html> 
   <head>
     <title> MR ORANGE JUICE</title>
   </head>
