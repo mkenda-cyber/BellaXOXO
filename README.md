@@ -1,1 +1,21 @@
-# BellaXOXO
+<!DOCTYPE html>
+<html> 
+ <meta charset="UTF-8">
+ <meta charset="viewport" content="width=device-width, initial scale=1.0" 
+  <head>
+    <title> MR ORANGE JUICE</title>
+  </head>
+  <body>
+    <h1><em>Hey Mrs. Orange Juice🍊💖</em></h1>
+      <section>
+        <h2>I don’t know how to say this without sounding dramatic but I miss you in ways words can’t fully explain.
+I’m sitting here trying to focus nisome but my mind keeps drifting back to you and moments 🙈💕
+Your smile, your voice na the way your presence calms me, yoooohh I crave it all wallah 😪😍
+Every little thing reminds me of you, and somehow you’re always in the back of my mind, even when I try to distract myself this word Bestina inanijia kichwani 😭😭💔
+It’s crazy how one person can be so far yet feel so close like you’re right here with me rn in every heartbeat….
+I don’t just miss you… I feel the absence of us…
+Can’t wait to hold you, kiss on lips to the neck, talk to you na laugh with you, just be with you ☹👩‍❤‍💋‍👨
+Until then, just know you’re deeply loved and even more deeply missed.
+Sleep well my love 💕💍</h2>
+      </section>
+  </body>
