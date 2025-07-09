@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-  <head>
-    <title> MR ORANGE JUICE</title>
-  </head>
-  <body>
-    <h1><em>Hey Mrs. Orange Juice🍊💖</em></h1>
+  <h1><em>Hey Mrs. Orange Juice🍊💖</em></h1>
       <section>
         <h2>I don’t know how to say this without sounding dramatic but I miss you in ways words can’t fully explain.
 I’m sitting here trying to focus nisome but my mind keeps drifting back to you and moments 🙈💕
